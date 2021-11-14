@@ -8,7 +8,6 @@ authors = ["Anas-Abuhatab <anasm.abuhatab@gmail.com>"]
 python = "^3.9"
 matplotlib = "^3.4.3"
 jupyterlab = "^3.2.3"
-numpy = "1.21.1"
 
 [tool.poetry.dev-dependencies]
 
